@@ -1,0 +1,5 @@
+mx/uv/inventario/controllers/InventarioController.class
+mx/uv/inventario/models/InventarioModel.class
+mx/uv/inventario/services/InventarioService.class
+mx/uv/inventario/InventarioApplication.class
+mx/uv/inventario/repositories/InventarioRepository.class
